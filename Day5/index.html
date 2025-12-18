@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms learning</title>
+  </head>
+  <body>
+    <h2>This is form learning</h2>
+
+    <form action="post">
+      <h5>This is input type = text</h5>
+      <div>
+        <label for="username">Enter your UserName</label>
+        <input
+          type="text"
+          id="username"
+          name="username"
+          placeholder="Enter your username" 
+        />
+      </div>
+      <h5>This is input type = radio</h5>
+      <div>
+        <input type="radio" name="gender" id="male" value="male" />
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="female" value="male" />
+        <label for="female">Female</label>
+      </div>
+      <h5>This is input type = checkbox</h5>
+      <div>
+        <input type="checkbox" name="subscribe" id="subscribe" value="yes" />
+        <label for="subscribe">Subscribs to the news letter</label>
+      </div>
+
+      <h5>This is textarea</h5>
+      <div>
+        <label for="comment">Enter your comment here</label>
+        <br />
+        <textarea name="comment" id="comment" cols="40" rows="10"> </textarea>
+      </div>
+      <h5>This is select tag</h5>
+      <div>
+        <label for="fruit">Select Fruit</label>
+        <select name="fruits" id="fruit">
+          <option value="apple">Apple</option>
+          <option value="banana">Banana</option>
+          <option value="Mango">Mango</option>
+        </select>
+      </div>
+    </form>
+  </body>
+</html>
