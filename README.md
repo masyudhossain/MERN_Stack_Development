@@ -14,3 +14,6 @@
 
 ## Day 5
 **Topic:** Forms
+
+## Day 6
+**Topic:** Inline and Block element. Task1
