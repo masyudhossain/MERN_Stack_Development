@@ -18,5 +18,8 @@
 ## Day 6
 **Topic:** Inline and Block element. Task1
 
-## Day 6
+## Day 7
 **Topic:** ID and Classes
+
+## Day 7
+**Topic:** Audio and Video Intregration
