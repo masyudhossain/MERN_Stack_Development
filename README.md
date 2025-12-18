@@ -17,3 +17,6 @@
 
 ## Day 6
 **Topic:** Inline and Block element. Task1
+
+## Day 6
+**Topic:** ID and Classes
