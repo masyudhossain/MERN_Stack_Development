@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Selectors</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      /*Element Selector*/
+      /*div {
+        background-color: red;
+      }*/
+      /*Class Selector*/
+      .yellow {
+        background-color: yellow;
+      }
+      /*Id selector*/
+      #green {
+        background-color: green;
+      }
+      /*Child selector*/
+      div > p {
+        color: aqua;
+        background-color: black;
+      }
+      /*Decendant selector*/
+      div p {
+        color: brown;
+        background-color: gray;
+      }
+      /*Universal selector*/
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      /*Pseudo Selector*/
+      a:visited {
+        color: rgb(148, 10, 10);
+      }
+      a:hover {
+        background-color: blueviolet;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="yellow">
+      <p>Lorem, ipsum.</p>
+      I am a div
+    </div>
+    <div id="green">
+      <article>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis,
+          expedita!
+        </p>
+      </article>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, nemo!
+    </div>
+    <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer"
+      >Google</a
+    >
+  </body>
+</html>
