@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  border: 2px solid rgb(248, 240, 240);
+  width: 80vw;
+  height: 10vh;
+  box-sizing: border-box;
+  background-color: rgb(94, 240, 37);
+  margin: auto;
+}
+
+.container {
+  box-sizing: border-box;
+  border: 2px solid rgb(248, 240, 240);
+  margin: 23px auto;
+  width: 80vw;
+  height: 70vh;
+  box-sizing: border-box;
+  background-color: rgb(35, 171, 175);
+  font-size: large;
+}
+.container p {
+  font-size: 1.5em;
+}
