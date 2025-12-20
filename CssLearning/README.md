@@ -13,3 +13,15 @@
 ## Day 4
 
 **Topic:** Box Model: Margin, Padding & Border
+
+## Day 5
+
+**Topic:** CSS font, text and color properties
+
+## Day 6
+
+**Topic:** CSS sizing units
+
+## Day 7
+
+**Topic:** CSS Display Properties
