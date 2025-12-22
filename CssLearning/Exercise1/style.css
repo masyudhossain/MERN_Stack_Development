@@ -1,17 +1,15 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
-}
-div {
-  margin: 10px;
-  padding: 1px;
-  border: 2px solid black;
-}
-#first {
-  color: red;
-  background-color: yellow;
-}
+} */
 p {
   background-color: blue;
   color: white;
+}
+div p:first-child {
+  background-color: yellow;
+  color: red;
+  /* margin: 10px;
+  padding: 1px; */
+  /* border: 2px solid black; */
 }
