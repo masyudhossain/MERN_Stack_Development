@@ -30,6 +30,10 @@
 
 **Topic:** CSS Shadows and Outlines
 
-## Day 8
+## Day 9
 
 **Topic:** Styling list using CSS
+
+## Day 10
+
+**Topic:** CSS Overflow Poperty
