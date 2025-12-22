@@ -29,3 +29,7 @@
 ## Day 8
 
 **Topic:** CSS Shadows and Outlines
+
+## Day 8
+
+**Topic:** Styling list using CSS
