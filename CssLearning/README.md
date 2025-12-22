@@ -25,3 +25,7 @@
 ## Day 7
 
 **Topic:** CSS Display Properties
+
+## Day 8
+
+**Topic:** CSS Shadows and Outlines
