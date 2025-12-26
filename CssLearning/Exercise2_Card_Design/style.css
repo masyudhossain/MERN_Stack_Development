@@ -6,7 +6,7 @@
 
 body {
   min-height: 100vh;
-  background: rgb(82, 151, 94);
+  background: rgb(134, 223, 211);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,10 +16,11 @@ body {
 
 .card {
   width: 320px;
-  background: #4c7183;
+  background: #f5f5f5;
   border-radius: 14px;
   border: 1px saddlebrown;
   padding: 14px;
+  margin: 5px;
 }
 
 .card-image img {
