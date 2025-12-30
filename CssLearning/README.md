@@ -45,3 +45,23 @@
 ## Day 12
 
 **Topic:** CSS Variable
+
+## Day 13
+
+**Topic:** CSS Media Queries
+
+## Day 14
+
+**Topic:** CSS selector More
+
+## Day 15
+
+**Topic:** Flex Box
+
+## Day 16
+
+**Topic:** CSS Grid
+
+## Day 17
+
+**Topic:** CSS Transforms
