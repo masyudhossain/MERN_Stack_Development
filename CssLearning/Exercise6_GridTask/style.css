@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+}
+header {
+  display: flex;
+}
+.navbar {
+  height: 75px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #bbccd8a8;
+  margin: 20px 110px;
+  padding: 12px;
+  border-radius: 5px;
+  background-color: #dde6eca8;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+.nav-logo {
+  height: 60px;
+}
+.nav-center {
+  display: flex;
+  list-style: none;
+  gap: 28px;
+  font-size: 16px;
+}
+
+.nav-center li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.nav-right {
+  display: flex;
+  gap: 15px;
+  font-size: 19px;
+}
+
+.download-btn {
+  font-size: 13px;
+  padding: 5px 10px;
+  border-radius: 6px;
+  background-color: #ffff05;
+}
