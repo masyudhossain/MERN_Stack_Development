@@ -1,0 +1,29 @@
+:root {
+  --primary-color: rgba(140, 71, 230, 0.849);
+  --text-color: white;
+  ---seconadry-color: rgba(164, 192, 42, 0.658);
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: var(---seconadry-color);
+}
+nav {
+  background-color: rgb(64, 187, 146);
+  padding: 12px;
+}
+ul li {
+  list-style: none;
+  display: inline;
+  padding: 20px;
+  font-weight: bolder;
+}
+
+ul li a {
+  color: var(--text-color);
+  text-decoration: none;
+}

@@ -1,0 +1,67 @@
+## Day 1
+
+**Topic:** CSS introduction
+
+## Day 2
+
+**Topic:** Inline, Internal and External Css
+
+## Day 3
+
+**Topic:** CSS Selector
+
+## Day 4
+
+**Topic:** Box Model: Margin, Padding & Border
+
+## Day 5
+
+**Topic:** CSS font, text and color properties
+
+## Day 6
+
+**Topic:** CSS sizing units
+
+## Day 7
+
+**Topic:** CSS Display Properties
+
+## Day 8
+
+**Topic:** CSS Shadows and Outlines
+
+## Day 9
+
+**Topic:** Styling list using CSS
+
+## Day 10
+
+**Topic:** CSS Overflow Poperty
+
+## Day 11
+
+**Topic:** CSS position property
+
+## Day 12
+
+**Topic:** CSS Variable
+
+## Day 13
+
+**Topic:** CSS Media Queries
+
+## Day 14
+
+**Topic:** CSS selector More
+
+## Day 15
+
+**Topic:** Flex Box
+
+## Day 16
+
+**Topic:** CSS Grid
+
+## Day 17
+
+**Topic:** CSS Transforms

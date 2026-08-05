@@ -1,0 +1,40 @@
+:root {
+  --color: blue;
+  --seccolor: brown;
+  --defmargin: 3px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 10px;
+}
+
+.nav {
+  /* background-color: rgb(192, 255, 98); */
+  background-color: var(--color);
+  /* margin: 3px; */
+  margin: var(--defmargin);
+}
+
+.container {
+  background-color: var(--seccolor);
+  /* margin: 3px; */
+  margin: var(--defmargin);
+}
+.anothercontainer {
+  background-color: bisque;
+  /* margin: 3px; */
+  margin: var(--defmargin);
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  list-style: none;
+  padding: 20px;
+  color: azure;
+}
